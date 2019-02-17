@@ -1,0 +1,6 @@
+D:\nnmwork\sampleapp\dotnet\task\TaskConsoleApplication\TaskException\bin\Debug\TaskException.exe.config
+D:\nnmwork\sampleapp\dotnet\task\TaskConsoleApplication\TaskException\obj\Debug\TaskException.csprojResolveAssemblyReference.cache
+D:\nnmwork\sampleapp\dotnet\task\TaskConsoleApplication\TaskException\bin\Debug\TaskException.exe
+D:\nnmwork\sampleapp\dotnet\task\TaskConsoleApplication\TaskException\bin\Debug\TaskException.pdb
+D:\nnmwork\sampleapp\dotnet\task\TaskConsoleApplication\TaskException\obj\Debug\TaskException.exe
+D:\nnmwork\sampleapp\dotnet\task\TaskConsoleApplication\TaskException\obj\Debug\TaskException.pdb

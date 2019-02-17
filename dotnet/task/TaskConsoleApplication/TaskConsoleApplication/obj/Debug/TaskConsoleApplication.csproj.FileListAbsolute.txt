@@ -1,0 +1,12 @@
+D:\nnmwork\sampleapp\ASPWebAPP\TaskConsoleApplication\TaskConsoleApplication\bin\Debug\TaskConsoleApplication.exe.config
+D:\nnmwork\sampleapp\ASPWebAPP\TaskConsoleApplication\TaskConsoleApplication\bin\Debug\TaskConsoleApplication.exe
+D:\nnmwork\sampleapp\ASPWebAPP\TaskConsoleApplication\TaskConsoleApplication\bin\Debug\TaskConsoleApplication.pdb
+D:\nnmwork\sampleapp\ASPWebAPP\TaskConsoleApplication\TaskConsoleApplication\obj\Debug\TaskConsoleApplication.csprojResolveAssemblyReference.cache
+D:\nnmwork\sampleapp\ASPWebAPP\TaskConsoleApplication\TaskConsoleApplication\obj\Debug\TaskConsoleApplication.exe
+D:\nnmwork\sampleapp\ASPWebAPP\TaskConsoleApplication\TaskConsoleApplication\obj\Debug\TaskConsoleApplication.pdb
+D:\nnmwork\sampleapp\dotnet\task\TaskConsoleApplication\TaskConsoleApplication\bin\Debug\TaskConsoleApplication.exe.config
+D:\nnmwork\sampleapp\dotnet\task\TaskConsoleApplication\TaskConsoleApplication\obj\Debug\TaskConsoleApplication.exe
+D:\nnmwork\sampleapp\dotnet\task\TaskConsoleApplication\TaskConsoleApplication\obj\Debug\TaskConsoleApplication.pdb
+D:\nnmwork\sampleapp\dotnet\task\TaskConsoleApplication\TaskConsoleApplication\bin\Debug\TaskConsoleApplication.exe
+D:\nnmwork\sampleapp\dotnet\task\TaskConsoleApplication\TaskConsoleApplication\bin\Debug\TaskConsoleApplication.pdb
+D:\nnmwork\sampleapp\dotnet\task\TaskConsoleApplication\TaskConsoleApplication\obj\Debug\TaskConsoleApplication.csprojResolveAssemblyReference.cache

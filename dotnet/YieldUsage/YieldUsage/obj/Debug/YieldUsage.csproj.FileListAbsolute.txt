@@ -1,0 +1,6 @@
+D:\nnmwork\sampleapp\YieldUsage\YieldUsage\bin\Debug\YieldUsage.exe.config
+D:\nnmwork\sampleapp\YieldUsage\YieldUsage\obj\Debug\YieldUsage.csprojResolveAssemblyReference.cache
+D:\nnmwork\sampleapp\YieldUsage\YieldUsage\bin\Debug\YieldUsage.exe
+D:\nnmwork\sampleapp\YieldUsage\YieldUsage\bin\Debug\YieldUsage.pdb
+D:\nnmwork\sampleapp\YieldUsage\YieldUsage\obj\Debug\YieldUsage.exe
+D:\nnmwork\sampleapp\YieldUsage\YieldUsage\obj\Debug\YieldUsage.pdb
